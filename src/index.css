@@ -1,13 +1,77 @@
+#root {
+	height: 100%;
+}
 body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+	background-color: black;
+}
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@700&display=swap');
+
+.navbar {
+	background-color: #343A40;
+}
+.nav-logo {
+	width: auto;
+	height: 40px;
+	margin-top: ;
+}
+.jumbotron {
+	background-color: black;
+	height: 100%;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.home-page {
+	background-image: url("./images/server_logo(inverse color).jpg");
+	background-size: cover;
+	background-position: center;
+	padding-top: 30%;
+	padding-bottom: 30%;
+	height: 100%;
+	/*margin-top: 10%;*/
 }
+.listen-page {
+	background-image: url("./images/Image-1.jpg");
+	background-size: cover;
+	background-position: center;
+	padding-top: 30%;
+	padding-bottom: 30%;
+	/*margin-top: 5%;*/
+}
+.bandcamp-embed {
+	border: 0; 
+	width: 100%; 
+	height: 120px;
+	margin-top: 25%;
+
+}
+.merch-page {
+	background-image: url("./images/server_logo(inverse color).jpg");
+	background-size: cover;
+	background-position: center;
+
+}
+.card{
+	margin-top: 2%;
+	background-color: #0a0003 !important;
+	background-image: url("./images/45-degree-fabric-light.png");
+	margin-left: auto;
+    margin-right: auto;
+    font-family: 'Orbitron', sans-serif;
+}
+.merch-img {
+	width: 100%;
+	height: 40vh;
+	object-fit: cover;
+}
+.about-page{
+	background-image: url("./images/IMG_0425.jpg");
+	background-size: cover;
+	background-position: center;
+
+
+}
+.about-text {
+	color: white;
+	padding-top: 10%;
+	padding-bottom: 10%;
+}
+
