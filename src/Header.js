@@ -1,7 +1,5 @@
 import React from 'react';
 import { Navbar, Nav } from 'react-bootstrap';
-// import NavLogo from './logo_text_full-color_.png';
-import './index.css';
 
 function HeaderComponent(props) {
 	console.log(props);

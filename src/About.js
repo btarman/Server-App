@@ -1,5 +1,5 @@
 import React from 'react';
-import {Jumbotron, Container, Card, Button, Row, Col} from 'react-bootstrap';
+import {Jumbotron, Container, Card, Row, Col} from 'react-bootstrap';
 
 function AboutComponent () {
 	return (
@@ -22,7 +22,7 @@ function AboutComponent () {
   								<a href='https://www.facebook.com/Server-180125039133141/'><img src='imgs/facebook-icon2.png' style={{ width: '3rem' }} alt='facebook-icon' /></a>
   							</Col>
   							<Col>
-  								<a href=''><img src='imgs/spotify_icon3.png' style={{ width: '5rem' }} alt='spotify-icon' /></a>
+  								<a href='https://www.spotify.com/us/'><img src='imgs/spotify_icon3.png' style={{ width: '5rem' }} alt='spotify-icon' /></a>
   							</Col>
   							<Col>
   								<a href='https://www.instagram.com/servertheband/'><img src='imgs/instagram-icon2.png' style={{ width: '3rem' }} alt='instagram-icon' /></a>
