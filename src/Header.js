@@ -8,7 +8,7 @@ function HeaderComponent(props) {
 	return(
 		<Navbar collapseOnSelect expand="lg" className='navbar'>
 				
-  			<Navbar.Brand href="/"><img src="logo_text_full-color_.png" className='nav-logo' alt='nav-logo' /></Navbar.Brand>
+  			<Navbar.Brand href="/"><img src="imgs/logo_text_full-color_.png" className='nav-logo' alt='nav-logo' /></Navbar.Brand>
   			<Navbar.Toggle aria-controls="basic-navbar-nav" />
   			<Navbar.Collapse id="basic-navbar-nav">
     			<Nav className="mr-auto">

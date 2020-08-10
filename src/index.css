@@ -4,7 +4,7 @@
 body {
 	background-color: black;
 }
-@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Hind+Guntur:wght@300&family=Orbitron:wght@700&display=swap');
 
 .navbar {
 	background-color: #343A40;
@@ -36,12 +36,19 @@ body {
 	padding-bottom: 30%;
 	/*margin-top: 5%;*/
 }
-.bandcamp-embed {
+/*.bandcamp-embed {
 	border: 0; 
 	width: 100%; 
 	height: 120px;
 	margin-top: 25%;
 
+}*/
+#bandcamp-embed {
+	border: 0; 
+	width: 400px; 
+	height: 439px;
+	/*margin-left: auto;*/
+    /*margin-right: auto;*/
 }
 .merch-page {
 	background-image: url("./images/server_logo(inverse color).jpg");
@@ -49,7 +56,7 @@ body {
 	background-position: center;
 
 }
-.card{
+.merch-card{
 	margin-top: 2%;
 	background-color: #0a0003 !important;
 	background-image: url("./images/45-degree-fabric-light.png");
@@ -68,10 +75,20 @@ body {
 	background-position: center;
 
 
+
+}
+.about-card {
+	background-color: black !important;
+	margin-left: auto;
+    margin-right: auto;
 }
 .about-text {
 	color: white;
 	padding-top: 10%;
 	padding-bottom: 10%;
+	font-family: 'Hind Guntur', sans-serif;
+}
+#bcamp-icon {
+	margin-top: 10%;
 }
 

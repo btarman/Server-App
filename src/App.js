@@ -1,6 +1,5 @@
 import React, { useState } from 'react';
 import './index.css';
-// import TestComponent from './TestComponent';
 import HomeComponent from './Home';
 import ListenComponent from './Listen';
 import HeaderComponent from './Header';
@@ -13,6 +12,8 @@ import {
   Link
 } from "react-router-dom";
 
+// implementing react-router to navigate between components
+// HeaderComponent caled first to stick navbar to top of each component
 
 function App() {
 	return (
