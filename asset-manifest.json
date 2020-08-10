@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/github.io/Server-App/static/css/main.5c3a4c38.chunk.css",
+    "main.js": "/github.io/Server-App/static/js/main.61ce3ab5.chunk.js",
+    "main.js.map": "/github.io/Server-App/static/js/main.61ce3ab5.chunk.js.map",
+    "runtime-main.js": "/github.io/Server-App/static/js/runtime-main.cb8f3c6e.js",
+    "runtime-main.js.map": "/github.io/Server-App/static/js/runtime-main.cb8f3c6e.js.map",
+    "static/css/2.11829350.chunk.css": "/github.io/Server-App/static/css/2.11829350.chunk.css",
+    "static/js/2.53566d39.chunk.js": "/github.io/Server-App/static/js/2.53566d39.chunk.js",
+    "static/js/2.53566d39.chunk.js.map": "/github.io/Server-App/static/js/2.53566d39.chunk.js.map",
+    "index.html": "/github.io/Server-App/index.html",
+    "precache-manifest.d9578c8ce2d523ecaa439ca904b8bd92.js": "/github.io/Server-App/precache-manifest.d9578c8ce2d523ecaa439ca904b8bd92.js",
+    "service-worker.js": "/github.io/Server-App/service-worker.js",
+    "static/css/2.11829350.chunk.css.map": "/github.io/Server-App/static/css/2.11829350.chunk.css.map",
+    "static/css/main.5c3a4c38.chunk.css.map": "/github.io/Server-App/static/css/main.5c3a4c38.chunk.css.map",
+    "static/js/2.53566d39.chunk.js.LICENSE.txt": "/github.io/Server-App/static/js/2.53566d39.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/github.io/Server-App/static/media/server_logo(inverse color).1fe109e3.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cb8f3c6e.js",
+    "static/css/2.11829350.chunk.css",
+    "static/js/2.53566d39.chunk.js",
+    "static/css/main.5c3a4c38.chunk.css",
+    "static/js/main.61ce3ab5.chunk.js"
+  ]
+}
