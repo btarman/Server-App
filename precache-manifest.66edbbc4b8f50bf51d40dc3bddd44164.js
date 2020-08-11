@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "32ebfaad0ebf2ba870abf1d29e8ee465",
+    "revision": "e8a076b72325708f37c955a53021c320",
     "url": "/github.io/Server-App/index.html"
   },
   {
-    "revision": "48c4c4e50309fc2f78e3",
+    "revision": "439919246fd835ccb089",
     "url": "/github.io/Server-App/static/css/2.11829350.chunk.css"
   },
   {
-    "revision": "76106485e4d037ddf450",
-    "url": "/github.io/Server-App/static/css/main.ebcbd54f.chunk.css"
+    "revision": "947d5300a65f939163e0",
+    "url": "/github.io/Server-App/static/css/main.b7a267fc.chunk.css"
   },
   {
-    "revision": "48c4c4e50309fc2f78e3",
-    "url": "/github.io/Server-App/static/js/2.53566d39.chunk.js"
+    "revision": "439919246fd835ccb089",
+    "url": "/github.io/Server-App/static/js/2.02796be7.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/github.io/Server-App/static/js/2.53566d39.chunk.js.LICENSE.txt"
+    "url": "/github.io/Server-App/static/js/2.02796be7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "76106485e4d037ddf450",
-    "url": "/github.io/Server-App/static/js/main.61ce3ab5.chunk.js"
+    "revision": "947d5300a65f939163e0",
+    "url": "/github.io/Server-App/static/js/main.e90de92d.chunk.js"
   },
   {
     "revision": "1d176479d7e280be2b4d",
@@ -38,6 +38,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "f382d70dddb180d20b3b96c9372e6289",
     "url": "/github.io/Server-App/static/media/Image-1.f382d70d.jpg"
+  },
+  {
+    "revision": "dd720e5ae9f6cf9a74afc37786b518f4",
+    "url": "/github.io/Server-App/static/media/logo_text_full-color_.dd720e5a.png"
   },
   {
     "revision": "1fe109e32c48759ffcb92a360f2b7f87",
