@@ -5,8 +5,8 @@ import {Jumbotron, Container, Card, Button, Row, Col} from 'react-bootstrap';
 
 function MerchComponent () {
 	return (
-		<Jumbotron fluid className="merch-page">
-			<Container fluid="md">
+		// <Jumbotron fluid className="merch-page">
+			<Container fluid="md" className="merch-page">
 				<Row>
 					<Col>
 						<Card style={{ width: '18rem' }} className='merch-card'>
@@ -52,7 +52,7 @@ function MerchComponent () {
 				</Row>
 				
 			</Container>
-		</Jumbotron>
+		// </Jumbotron>
 
 		)
 }
