@@ -3,9 +3,9 @@ import {Jumbotron, Container, Card, Row, Col} from 'react-bootstrap';
 
 function AboutComponent () {
 	return (
-		<Jumbotron fluid className='about-page'>
-  			<Container fluid>
-  				<Card style={{ width: '25rem' }} className='about-card'>
+		// <Jumbotron fluid className='about-page'>
+  			<Container fluid className='about-page'>
+  				<Card style={{ width: '22rem' }} className='about-card'>
   					<Card.Body>
   						<Row>
   							<Col>
@@ -31,7 +31,7 @@ function AboutComponent () {
   					</Card.Body>
 				</Card>
   			</Container>
-		</Jumbotron>
+		// </Jumbotron>
 		)
 }
 
