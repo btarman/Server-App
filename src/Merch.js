@@ -1,11 +1,10 @@
 import React from 'react';
-import {Jumbotron, Container, Card, Button, Row, Col} from 'react-bootstrap';
+import {Container, Card, Button, Row, Col} from 'react-bootstrap';
 
 // Buttons on the page will link to purchase service, not yet built out
 
 function MerchComponent () {
 	return (
-		// <Jumbotron fluid className="merch-page">
 			<Container fluid className="merch-page">
 				<Row>
 					<Col>
@@ -52,8 +51,6 @@ function MerchComponent () {
 				</Row>
 				
 			</Container>
-		// </Jumbotron>
-
 		)
 }
 

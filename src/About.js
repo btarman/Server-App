@@ -1,11 +1,10 @@
 import React from 'react';
-import {Jumbotron, Container, Card, Row, Col} from 'react-bootstrap';
+import {Container, Card, Row, Col} from 'react-bootstrap';
 
 function AboutComponent () {
 	return (
-		// <Jumbotron fluid className='about-page'>
   			<Container fluid className='about-page'>
-  				<Card style={{ width: '22rem' }} className='about-card'>
+  				<Card style={{width:'75%'}} className='about-card'>
   					<Card.Body>
   						<Row>
   							<Col>
@@ -16,22 +15,21 @@ function AboutComponent () {
   						</Row>
   						<Row>
   							<Col>
-  								<a href='https://servermusic1.bandcamp.com/releases'><img src='imgs/bandcamp-icon4.png' style={{ width: '2rem' }} id='bcamp-icon' alt='bandcamp-icon' /></a>
+  								<a href='https://servermusic1.bandcamp.com/releases'><img src='imgs/bandcamp-icon4.png' style={{ width: '40%' }} id='bcamp-icon' alt='bandcamp-icon' /></a>
   							</Col>
   							<Col>
-  								<a href='https://www.facebook.com/Server-180125039133141/'><img src='imgs/facebook-icon2.png' style={{ width: '3rem' }} alt='facebook-icon' /></a>
+  								<a href='https://www.facebook.com/Server-180125039133141/'><img src='imgs/facebook-icon2.png' style={{ width: '60%' }} alt='facebook-icon' /></a>
   							</Col>
   							<Col>
-  								<a href='https://www.spotify.com/us/'><img src='imgs/spotify_icon3.png' style={{ width: '5rem' }} alt='spotify-icon' /></a>
+  								<a href='https://www.spotify.com/us/'><img src='imgs/spotify_icon3.png' style={{ width: '95%' }} alt='spotify-icon' /></a>
   							</Col>
   							<Col>
-  								<a href='https://www.instagram.com/servertheband/'><img src='imgs/instagram-icon2.png' style={{ width: '3rem' }} alt='instagram-icon' /></a>
+  								<a href='https://www.instagram.com/servertheband/'><img src='imgs/instagram-icon2.png' style={{ width: '60%' }} alt='instagram-icon' /></a>
   							</Col>
   						</Row>
   					</Card.Body>
 				</Card>
   			</Container>
-		// </Jumbotron>
 		)
 }
 
